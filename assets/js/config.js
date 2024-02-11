@@ -207,7 +207,7 @@ setupGraphAnalytics();
 
 
 // If alt_header is enabled, these are the items added to the header
-let headerLogoText = "Finch's Squige",
+let headerLogoText = "Finch's Squigs",
     headerLogoImgUrl = "assets/images/binch.png",
     headerLinks = [
 //  {
