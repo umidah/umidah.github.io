@@ -36,7 +36,7 @@ const init_phones = [],// Optional. Which graphs to display on initial load. Not
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference", files:["Haruto", "Haruto 🅱️ass"] },
+    { type:"Reference", files:["Moondrop Lan"] },
     { type:"Neutral",    files:["Diffuse Field","Etymotic","Free Field","IEF Neutral"] },
     { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","Precogvision","Super Review 22","Super Review 21","Timmy","VSG"] },
     { type:"IEF Members", files:["Brownie", "Brownie Unsmoothened", "Listener (No Bass Shelf)", "Rennsport"]},

@@ -1,2 +1,778 @@
 [
+  {
+    "name": "7th Accoustics",
+    "phones": [
+      {
+        "file": [
+          "7A Supernova",
+          "7A Supernova 6K",
+          "7A Supernova 9K"
+        ],
+        "name": [
+          "Supernova"
+        ],
+        "suffix": [
+          "S1",
+          "Shallow",
+          "Deep"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "7Hz",
+    "phones": [
+      {
+        "file": [
+          "7Hz Zero"
+        ],
+        "name": [
+          "Zero"
+        ],
+        "reviewScore": "4.83",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "7Hz Zero 2"
+        ],
+        "name": [
+          "Zero 2"
+        ],
+        "reviewScore": "4.83",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Binary",
+    "phones": [
+      {
+        "file": [
+          "Binary x Gizaudio Chopin"
+        ],
+        "name": [
+          "x Gizaudio Chopin"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blon",
+    "phones": [
+      {
+        "file": [
+          "BL-03 Y4 Filter Back Vent Old Rig"
+        ],
+        "name": [
+          "BL-03"
+        ],
+        "reviewScore": "5.6",
+        "suffix": [
+          "Y4 Filter Back Vent + 500 Mesh"
+        ]
+      },
+      {
+        "file": [
+          "Blon Z300"
+        ],
+        "name": [
+          "Z300"
+        ],
+        "reviewScore": "5.86",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CCA",
+    "phones": [
+      {
+        "file": [
+          "CCA CRA 500 HFoam Old Rig"
+        ],
+        "name": [
+          "CRA"
+        ],
+        "reviewScore": "5.49",
+        "suffix": [
+          "500 Mesh + High Density Foam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CVJ",
+    "phones": [
+      {
+        "file": [
+          "CVJ Konoka",
+          "CVJ Konoka 500 Mesh"
+        ],
+        "name": [
+          "Konoka"
+        ],
+        "suffix": [
+          "S1",
+          "500 Mesh"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Etymotic",
+    "phones": [
+      {
+        "file": [
+          "Etymotic ER3SE"
+        ],
+        "name": [
+          "ER3SE"
+        ],
+        "suffix": [
+          "Triple Flange"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FiiO",
+    "phones": [
+      {
+        "file": [
+          "FiiO FH3",
+          "Fiio FH3 springtips Old Rig"
+        ],
+        "name": [
+          "FH3"
+        ],
+        "reviewScore": "7.7",
+        "suffix": [
+          "S1",
+          "Spring tips"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hidizs",
+    "phones": [
+      {
+        "file": [
+          "Hidizs MS2 Old Rig"
+        ],
+        "name": [
+          "MS2"
+        ],
+        "reviewScore": "5.54",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Juzear",
+    "phones": [
+      {
+        "file": [
+          "Juzear 41t"
+        ],
+        "name": [
+          "41t"
+        ],
+        "reviewScore": "6.84",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kinera",
+    "phones": [
+      {
+        "file": [
+          "Kinera Idun Golden"
+        ],
+        "name": [
+          "Idun Golden"
+        ],
+        "reviewScore": "Broken",
+        "suffix": [
+          "Broken DD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kiwi ears",
+    "phones": [
+      {
+        "file": [
+          "Kiwi ears Cadenza Old Rig",
+          "Kiwi ears Cadenza"
+        ],
+        "name": [
+          "Cadenza"
+        ],
+        "reviewScore": "5.74",
+        "suffix": [
+          "S1",
+          "ALC5685"
+        ]
+      },
+      {
+        "file": [
+          "Kiwi Ears Forteza"
+        ],
+        "name": [
+          "Forteza"
+        ],
+        "reviewScore": "5.74",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Kiwi ears Quartet DU Old Rig",
+          "Kiwi ears Quartet UU Old Rig",
+          "Kiwi ears Quartet UD Old Rig",
+          "Kiwi ears Quartet DD Old Rig"
+        ],
+        "name": [
+          "Quartet"
+        ],
+        "reviewScore": "6.4",
+        "suffix": [
+          "DU",
+          "UU",
+          "UD",
+          "DD"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "KZ",
+    "phones": [
+      {
+        "file": [
+          "KZ D-fi DDDU"
+        ],
+        "name": [
+          "D-fi"
+        ],
+        "reviewScore": "4.07",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Letshuoer",
+    "phones": [
+      {
+        "file": [
+          "Letshuoer x Gizaudio Galileo Old Rig"
+        ],
+        "name": [
+          "x Gizaudio Galileo"
+        ],
+        "reviewScore": "7.17",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maono",
+    "phones": [
+      {
+        "file": [
+          "MAONO BUDS"
+        ],
+        "name": [
+          "Buds"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moondrop",
+    "phones": [
+      {
+        "file": [
+          "Moondrop Aria (2021)",
+          "Moondrop Aria (basslet)"
+        ],
+        "name": [
+          "Aria"
+        ],
+        "reviewScore": "6.74",
+        "suffix": [
+          "S1",
+          "Front Filter Poked"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Aria2"
+        ],
+        "name": [
+          "Aria2"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Blessing2",
+          "Moondrop Blessing2 tapb-b",
+          "Moondrop Blessing2 Wide",
+          "Moondrop Blessing2 Oracle"
+        ],
+        "name": [
+          "Blessing2"
+        ],
+        "reviewScore": "8.2",
+        "suffix": [
+          "S1",
+          "Tanchjim T-APB Bass tips",
+          "Tanchjim T-APB Treble tips",
+          "EQ'd to Oracle"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Blessing3 Old Rig",
+          "Moondrop Blessing3",
+          "Moondrop Blessing3 S2"
+        ],
+        "name": [
+          "Blessing3"
+        ],
+        "reviewScore": "8.31",
+        "suffix": [
+          "S1",
+          "ALC5686",
+          "S2"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Chu Old Rig"
+        ],
+        "name": [
+          "Chu"
+        ],
+        "reviewScore": "5.37",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Chu II Front Vent Poked",
+          "Moondrop Chu II",
+          "Moondrop Chu II Zen Can",
+          "Moondrop Chu II XBass",
+          "Moondrop Chu II 3d",
+          "Moondrop Chu II 3d + XBass"
+        ],
+        "name": [
+          "Chu2"
+        ],
+        "reviewScore": "~.~",
+        "suffix": [
+          "S1 Front Vent Poked",
+          "S1",
+          "S1 Zen Can",
+          "S1 XBass",
+          "S1 3d",
+          "S1 3d + XBass"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Crescent HFoam Old Rig",
+          "Moondrop Crescent no filter Old Rig"
+        ],
+        "name": [
+          "Crescent"
+        ],
+        "reviewScore": "5.95",
+        "suffix": [
+          "No filter + High Density Foam",
+          "No filter"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop KATO Old Rig",
+          "Moondrop Kato May"
+        ],
+        "name": [
+          "KATO"
+        ],
+        "reviewScore": "7.98",
+        "suffix": [
+          "S1",
+          "May DSP Standard"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Lan",
+          "Moondrop Lan Old Rig"
+        ],
+        "name": [
+          "Lan"
+        ],
+        "reviewScore": "7.32",
+        "suffix": [
+          "S1",
+          "9K Resonance"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop May nodsp",
+          "Moondrop May Standard",
+          "Moondrop May antiherbert",
+          "Moondrop May vdsf",
+          "Moondrop May herbert",
+          "Moondrop May Harman"
+        ],
+        "name": [
+          "May"
+        ],
+        "suffix": [
+          "No DSP",
+          "Standard",
+          "Anti-Herbert (Basshead)",
+          "VDSF",
+          "Very Herbert (No Bass)",
+          "Harman"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop SSR"
+        ],
+        "name": [
+          "SSR"
+        ],
+        "reviewScore": "6.56",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop Starfield no plug",
+          "Moondrop Starfield 2 May"
+        ],
+        "name": [
+          "Starfield2"
+        ],
+        "suffix": [
+          "S1",
+          "May DSP Standard"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PULA",
+    "phones": [
+      {
+        "file": [
+          "Pula PA02"
+        ],
+        "name": [
+          "PA02"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "QKZ",
+    "phones": [
+      {
+        "file": [
+          "QKZ X HBB",
+          "QKZ X HBB NOBASS"
+        ],
+        "name": [
+          "x HBB"
+        ],
+        "suffix": [
+          "S1",
+          "NO BASS"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "QoA",
+    "phones": [
+      {
+        "file": [
+          "QoA Gimlet",
+          "QoA Gimlet 500"
+        ],
+        "name": [
+          "Gimlet"
+        ],
+        "reviewScore": "4.88",
+        "suffix": [
+          "S1",
+          "500 Mesh"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sennheiser",
+    "phones": [
+      {
+        "file": [
+          "Sennheiser IE200 UC tips Old Rig"
+        ],
+        "name": [
+          "IE200"
+        ],
+        "reviewScore": "7.09",
+        "suffix": [
+          "UC tips"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Simgot",
+    "phones": [
+      {
+        "file": [
+          "Simgot EW100P"
+        ],
+        "name": [
+          "EW100P"
+        ],
+        "reviewScore": "4.6",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Simgot EW200"
+        ],
+        "name": [
+          "EW200"
+        ],
+        "reviewScore": "~.~",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tanchjim",
+    "phones": [
+      {
+        "file": [
+          "Tanchjim ONE",
+          "Tanchjim ONE DSP"
+        ],
+        "name": [
+          "ONE"
+        ],
+        "suffix": [
+          "No Filters",
+          "DSP"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tangzu",
+    "phones": [
+      {
+        "file": [
+          "Tangzu Chang Le Old Rig",
+          "Tangzu Chang Le nofoamfilter Old Rig",
+          "Tangzu Chang Le nofoam Old Rig",
+          "Tangzu Chang Le HDFTape Old Rig",
+          "Tangzu Chang Le HDF Old Rig",
+          "Tangzu Chang Le 500nofoam Old Rig"
+        ],
+        "name": [
+          "Chang Le"
+        ],
+        "reviewScore": "4.27",
+        "suffix": [
+          "S1",
+          "No Foam + No Filter",
+          "No Foam",
+          "High Density Foam + Back Tape",
+          "High Density Foam",
+          "No Foam + 500 Mesh"
+        ]
+      },
+      {
+        "file": [
+          "Tangzu Wan_er"
+        ],
+        "name": [
+          "Wan'er"
+        ],
+        "reviewScore": [
+          "4.85"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thieaudio",
+    "phones": [
+      {
+        "file": [
+          "Thieaudio Hype4"
+        ],
+        "name": [
+          "Hype4"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tinhifi",
+    "phones": [
+      {
+        "file": [
+          "Tinhifi C2",
+          "Tinhifi C2 nofilter",
+          "Tinhifi C2 nofilter LDF",
+          "Tinhifi C2 nofilter HDF",
+          "Tinhifi C2 500",
+          "Tinhifi C2 HDF 500",
+          "Tinhifi C2 Y4 Front Vent",
+          "Tinhifi C2 Taped Back"
+        ],
+        "name": [
+          "C2"
+        ],
+        "reviewScore": "6.52",
+        "suffix": [
+          "S1",
+          "No Filter",
+          "No Filter + Low Density Foam",
+          "No filter + High Density Foam",
+          "500 Mesh",
+          "500 Mesh + High Density Foam",
+          "Y4 Filter Front Vent",
+          "Taped Back Vent"
+        ]
+      },
+      {
+        "file": [
+          "Tinhifi P1 Max Old Rig"
+        ],
+        "name": [
+          "P1 Max"
+        ],
+        "reviewScore": "7.28",
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tripowin",
+    "phones": [
+      {
+        "file": [
+          "Tripowin Piccolo"
+        ],
+        "name": [
+          "Piccolo"
+        ],
+        "reviewScore": "5.64",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Tripowin Olina SE",
+          "Tripowin Olina SE Old filter"
+        ],
+        "name": [
+          "Olina"
+        ],
+        "reviewScore": "5.64",
+        "suffix": [
+          "S1",
+          "Old filter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Truthear",
+    "phones": [
+      {
+        "file": [
+          "Truthear Hola Old Rig"
+        ],
+        "name": [
+          "Hola"
+        ],
+        "reviewScore": "5.03",
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Truthear Hexa"
+        ],
+        "name": [
+          "Hexa"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  }
 ]
