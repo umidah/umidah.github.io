@@ -88,7 +88,7 @@ function watermark(svg) {
         .attr("opacity",0.2)
         .append("text")
         .attrs({x:765, y:314, "font-size":10, "text-anchor":"end", "class":"site_name"})
-        .text("graphtool.harutohiroki.com");
+        .text("rangerfinch");
 }
 
 
