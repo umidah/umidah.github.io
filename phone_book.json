@@ -528,9 +528,9 @@
         ]
       },
       {
-        "file": ["Moondrop x Crinicle DUSK"],
+        "file": ["Moondrop x Crinicle DUSK", "Moondrop DUSK XBass"],
         "name": ["x Crinicle DUSK"],
-        "suffix": ["S1"]
+        "suffix": ["S1", "S1 XBass"]
       }
     ]
   },
@@ -595,11 +595,23 @@
           "Sennheiser IE200 UC tips Old Rig"
         ],
         "name": [
-          "IE200"
+          "IE 200"
         ],
         "reviewScore": "7.09",
         "suffix": [
           "UC tips"
+        ]
+      },
+      {
+        "file": [
+          "Sennheiser IE 600"
+        ],
+        "name": [
+          "IE 600"
+        ],
+        "reviewScore": "7.09",
+        "suffix": [
+          "S1"
         ]
       }
     ]
