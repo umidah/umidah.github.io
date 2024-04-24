@@ -704,7 +704,9 @@
       },
       {
         "file": [
-          "Tang Zu Xuan Nv"
+          "Tang Zu Xuan Nv",
+          "Tang Zu Xuan Nv 01",
+          "Tang Zu Xuan Nv 00"
         ],
         "name": [
           "Xuan Nv"
@@ -713,7 +715,9 @@
           "4.85"
         ],
         "suffix": [
-          "S1"
+          "S1",
+          "No Big Filter",
+          "No Big and Small Filter"
         ]
       }
     ]
