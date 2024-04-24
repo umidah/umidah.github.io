@@ -528,9 +528,17 @@
         ]
       },
       {
-        "file": ["Moondrop x Crinicle DUSK", "Moondrop DUSK XBass"],
-        "name": ["x Crinicle DUSK"],
-        "suffix": ["S1", "S1 XBass"]
+        "file": [
+          "Moondrop x Crinicle DUSK",
+          "Moondrop DUSK XBass"
+        ],
+        "name": [
+          "x Crinicle DUSK"
+        ],
+        "suffix": [
+          "S1",
+          "S1 XBass"
+        ]
       }
     ]
   },
