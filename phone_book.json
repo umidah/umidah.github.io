@@ -129,6 +129,24 @@
     ]
   },
   {
+    "name": "Samsung",
+    "phones": [
+      {
+        "file": [
+          "Galaxy Buds2 Clear",
+          "Samsung Galaxy Buds2"
+        ],
+        "name": [
+          "Galaxy Buds2"
+        ],
+        "suffix": [
+          "Clear",
+          "Standard"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Etymotic",
     "phones": [
       {
