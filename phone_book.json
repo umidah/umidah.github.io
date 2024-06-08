@@ -692,6 +692,23 @@
           "No Filters",
           "DSP"
         ]
+      },
+      {
+        "file": [
+          "T 4U Natural",
+          "T 4U Atmosphere",
+          "T 4U Pop",
+          "T 4U Reference"
+        ],
+        "name": [
+          "4U"
+        ],
+        "suffix": [
+          "9 o'clock",
+          "3 o'clock",
+          "12 o'clock",
+          "6 o'clock"
+        ]
       }
     ]
   },
@@ -810,6 +827,18 @@
         "suffix": [
           "S1"
         ]
+      },
+      {
+        "file": [
+          "Tinhifi T2 DLC"
+        ],
+        "name": [
+          "T2 DLC"
+        ],
+        "reviewScore": "7.28",
+        "suffix": [
+          "S1"
+        ]
       }
     ]
   },
@@ -847,6 +876,18 @@
   {
     "name": "Truthear",
     "phones": [
+      {
+        "file": [
+          "Truthear GATe"
+        ],
+        "name": [
+          "GATe"
+        ],
+        "reviewScore": "5.03",
+        "suffix": [
+          "S1"
+        ]
+      },
       {
         "file": [
           "Truthear Hola Old Rig"
