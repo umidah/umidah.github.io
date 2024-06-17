@@ -678,6 +678,22 @@
     ]
   },
   {
+    "name": "Sony",
+    "phones": [
+      {
+        "file": [
+          "Sony IER-M7"
+        ],
+        "name": [
+          "IER-M7"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tanchjim",
     "phones": [
       {
