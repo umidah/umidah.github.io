@@ -161,6 +161,32 @@
     ]
   },
   {
+    "name": "FENGRU",
+    "phones": [
+      {
+        "file": [
+          "Fengru MY88 Black",
+          "Fengru MY88 Blue",
+          "Fengru MY88 Red",
+          "Fengru MY88 Red 500",
+          "Fengru MY88 Red FOAM",
+          "Fengru MY88 Red 500+F"
+        ],
+        "name": [
+          "MY88"
+        ],
+        "suffix": [
+          "Black",
+          "Blue",
+          "Red",
+          "Red 500 Mesh",
+          "Red foam",
+          "Red 500 Mesh + foam"
+        ]
+      }
+    ]
+  },
+  {
     "name": "FiiO",
     "phones": [
       {
