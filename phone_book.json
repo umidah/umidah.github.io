@@ -360,6 +360,21 @@
         "suffix": [
           "S1"
         ]
+      },
+      {
+        "file": [
+          "KZ Castor Bass UUUU",
+          "KZ Castor Bass DDUU",
+          "KZ Castor Bass DDDD"
+        ],
+        "name": [
+          "Castor Bass"
+        ],
+        "suffix": [
+          "UUUU S1",
+          "DDUU S1",
+          "DDDD S1"
+        ]
       }
     ]
   },
