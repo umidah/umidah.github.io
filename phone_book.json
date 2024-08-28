@@ -217,6 +217,22 @@
     ]
   },
   {
+    "name": "Heartfield",
+    "phones": [
+      {
+        "file": [
+          "Heartfield Blanc"
+        ],
+        "name": [
+          "Blanc"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hidizs",
     "phones": [
       {
