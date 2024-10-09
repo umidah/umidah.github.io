@@ -539,13 +539,25 @@
       },
       {
         "file": [
-          "Moondrop Kadenz"
+          "Moondrop Kadenz",
+          "Kadenz ECHO B Normal",
+          "Kadenz ECHO B No PEQ",
+          "Kadenz ECHO B Bass+",
+          "Kadenz ECHO B Bass++",
+          "Kadenz ECHO B SS+",
+          "Kadenz ECHO B Treble+"
         ],
         "name": [
           "Kadenz"
         ],
         "suffix": [
-          "S1"
+          "S1",
+          "S1 Echo B Normal",
+          "S1 Echo B No PEQ",
+          "S1 Echo B Bass+",
+          "S1 Echo B Bass++",
+          "S1 Echo B Soundstage+",
+          "S1 Echo B Treble+"
         ]
       },
       {
