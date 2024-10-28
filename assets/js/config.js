@@ -1,10 +1,10 @@
 // Configuration options
-const init_phones = ['Moondrop Lan Target'],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ['Moondrop Lan Target', 'Moondrop Kadenz', 'Tanchjim Origin'],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
-      default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
+      default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
-      default_norm_hz = 630,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
+      default_norm_hz = 800,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
       max_channel_imbalance = 5,                    // Channel imbalance threshold to show ! in the channel selector
       alt_layout = true,                            // Toggle between classic and alt layouts
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?

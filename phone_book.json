@@ -842,19 +842,6 @@
     "phones": [
       {
         "file": [
-          "Tanchjim ONE",
-          "Tanchjim ONE DSP"
-        ],
-        "name": [
-          "ONE"
-        ],
-        "suffix": [
-          "No Filters",
-          "DSP"
-        ]
-      },
-      {
-        "file": [
           "T 4U Natural",
           "T 4U Atmosphere",
           "T 4U Pop",
@@ -868,6 +855,30 @@
           "3 o'clock",
           "12 o'clock",
           "6 o'clock"
+        ]
+      },
+      {
+        "file": [
+          "Tanchjim ONE",
+          "Tanchjim ONE DSP"
+        ],
+        "name": [
+          "ONE"
+        ],
+        "suffix": [
+          "No Filters",
+          "DSP"
+        ]
+      },
+      {
+        "file": [
+          "Tanchjim Origin"
+        ],
+        "name": [
+          "Origin"
+        ],
+        "suffix": [
+          "S1"
         ]
       }
     ]
