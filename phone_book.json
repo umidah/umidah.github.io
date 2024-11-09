@@ -158,6 +158,22 @@
     ]
   },
   {
+    "name": "DUNU",
+    "phones": [
+      {
+        "file": [
+          "DUNU Kima 2"
+        ],
+        "name": [
+          "Kima 2"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Etymotic",
     "phones": [
       {
@@ -547,7 +563,10 @@
           "Kadenz ECHO B Bass+",
           "Kadenz ECHO B Bass++",
           "Kadenz ECHO B SS+",
-          "Kadenz ECHO B Treble+"
+          "Kadenz ECHO B Treble+",
+          "Moondrop Kadenz Origin",
+          "Moondrop Kadenz KATO S",
+          "Moondrop Kadenz KATO B"
         ],
         "name": [
           "Kadenz"
@@ -559,7 +578,10 @@
           "S1 Echo B Bass+",
           "S1 Echo B Bass++",
           "S1 Echo B Soundstage+",
-          "S1 Echo B Treble+"
+          "S1 Echo B Treble+",
+          "S1 Origin Nozzle",
+          "S1 KATO Silver Nozzle",
+          "S1 KATO Brass Nozzle"
         ]
       },
       {
