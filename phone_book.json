@@ -896,13 +896,15 @@
       },
       {
         "file": [
-          "Tanchjim Origin"
+          "Tanchjim Origin",
+          "Tanchjim Origin Kadenz"
         ],
         "name": [
           "Origin"
         ],
         "suffix": [
-          "S1"
+          "S1",
+          "Kadenz Nozzle"
         ]
       }
     ]
