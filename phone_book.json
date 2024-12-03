@@ -62,22 +62,6 @@
     ]
   },
   {
-    "name": "Apple",
-    "phones": [
-      {
-        "file": [
-          "APP2"
-        ],
-        "name": [
-          "Airpods Pro gen 2"
-        ],
-        "suffix": [
-          "S1"
-        ]
-      }
-    ]
-  },
-  {
     "name": "Audio",
     "phones": [
       {
