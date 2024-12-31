@@ -909,6 +909,67 @@
         "suffix": [
           "S1"
         ]
+      },
+      
+      {
+        "file": [
+          "Sony Linkbuds Fit",
+          "Sony LB Fit Vocal",
+          "Sony LB Fit Teble Boost",
+          "Sony LB Fit Bass Boost",
+          "Sony LB Fit Speech",
+          "Sony LB Fit Relaxed",
+          "Sony LB Fit Bright",
+          "Sony LB Fit Mellow",
+          "Sony LB Fit Excited",
+          "Sony LB CB -10",
+          "Sony LB CB -5",
+          "Sony LB CB -3",
+          "Sony LB CB +3",
+          "Sony LB CB +5",
+          "Sony LB 400 MAX",
+          "Sony LB 400 MIN",
+          "Sony LB 1K MAX",
+          "Sony LB 1K MIN",
+          "Sony LB 2.5K MAX",
+          "Sony LB 2.5K MIN",
+          "Sony LB 6.3K MAX",
+          "Sony LB 6.3K MIN",
+          "Sony LB 16K MAX",
+          "Sony LB 16K MIN",
+          "Sony LB 16K MIN",
+          "Sony LB Ambient"
+        ],
+        "name": [
+          "Linkbuds Fit"
+        ],
+        "suffix": [
+          "ANC ON, no EQ",
+          "ANC ON, EQ: Vocal",
+          "ANC ON, EQ: Treble Boost",
+          "ANC ON, EQ: Bass Boost",
+          "ANC ON, EQ: Speech",
+          "ANC ON, EQ: Relaxed",
+          "ANC ON, EQ: Bright",
+          "ANC ON, EQ: Mellow",
+          "ANC ON, EQ: Excited",
+          "ANC ON, EQ: Clear Bass -10",
+          "ANC ON, EQ: Clear Bass -5",
+          "ANC ON, EQ: Clear Bass -3",
+          "ANC ON, EQ: Clear Bass +3",
+          "ANC ON, EQ: Clear Bass +5",
+          "ANC ON, EQ: 400Hz +10",
+          "ANC ON, EQ: 400Hz -10",
+          "ANC ON, EQ: 1000Hz +10",
+          "ANC ON, EQ: 1000Hz -10",
+          "ANC ON, EQ: 2500Hz +10",
+          "ANC ON, EQ: 2500Hz -10",
+          "ANC ON, EQ: 6300Hz +10",
+          "ANC ON, EQ: 6300Hz -10",
+          "ANC ON, EQ: 16000Hz +10",
+          "ANC ON, EQ: 16000Hz -10",
+          "ANC OFF, no EQ, Ambient Mode"
+        ]
       }
     ]
   },
