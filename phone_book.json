@@ -106,6 +106,17 @@
         "suffix": [
           "S1"
         ]
+      },
+      {
+        "file": [
+          "Binary Dynaquattro"
+        ],
+        "name": [
+          "Dynaquattro"
+        ],
+        "suffix": [
+          "S1"
+        ]
       }
     ]
   },
@@ -897,6 +908,24 @@
     ]
   },
   {
+    "name": "Softears",
+    "phones": [
+      {
+        "file": [
+          "Softears Volume S low",
+          "Softears Volume S high"
+        ],
+        "name": [
+          "Volume S"
+        ],
+        "suffix": [
+          "S1 Low",
+          "S1 High"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Sony",
     "phones": [
       {
@@ -1110,6 +1139,17 @@
         ],
         "name": [
           "Oracle"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      },
+      {
+        "file": [
+          "Thieaudio Oracle mk3"
+        ],
+        "name": [
+          "Oracle mk3"
         ],
         "suffix": [
           "S1"
