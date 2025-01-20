@@ -738,14 +738,16 @@
       {
         "file": [
           "Moondrop Quarks2",
-          "Quarks2 No DSP"
+          "Quarks2 No DSP",
+          "Quarks2 FinchPreset"
         ],
         "name": [
           "Quarks2"
         ],
         "suffix": [
           "S1",
-          "No DSP"
+          "No DSP",
+          "Target AutoEQ"
         ]
       },
       {
