@@ -737,13 +737,15 @@
       },
       {
         "file": [
-          "Moondrop Quarks2"
+          "Moondrop Quarks2",
+          "Quarks2 No DSP L"
         ],
         "name": [
           "Quarks2"
         ],
         "suffix": [
-          "S1"
+          "S1",
+          "No DSP"
         ]
       },
       {
