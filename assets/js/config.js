@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ['Moondrop Lan Target', 'Moondrop DUSK 1124'],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ['Finch Preference Target', 'Moondrop DUSK 1124'],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -36,7 +36,7 @@ const init_phones = ['Moondrop Lan Target', 'Moondrop DUSK 1124'],// Optional. W
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference", files:["Moondrop Lan"] },
+    { type:"Reference", files:["Moondrop Lan", "Finch Preference"] },
     { type:"Neutral",    files:["Diffuse Field","Etymotic","Free Field","IEF Neutral"] },
     { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","Precogvision","Super Review 22","Super Review 21","Timmy","VSG"] },
     { type:"IEF Members", files:["Brownie", "Brownie Unsmoothened", "Listener (No Bass Shelf)", "Rennsport"]},
