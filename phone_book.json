@@ -456,6 +456,24 @@
           "DDUU S1",
           "DDDD S1"
         ]
+      },
+      
+      {
+        "file": [
+          "KZ x AE Libra X",
+          "KZ Libra X +300",
+          "KZ Libra X +500",
+          "KZ Libra X filterless"
+        ],
+        "name": [
+          "x Angel Ears Libra X"
+        ],
+        "suffix": [
+          "S1",
+          "S1 + 300 Mesh",
+          "S1 + 500 Mesh",
+          "S1 filterless"
+        ]
       }
     ]
   },
