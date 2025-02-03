@@ -727,6 +727,21 @@
       },
       {
         "file": [
+          "Moondrop Starfield Aria",
+          "Moondrop Starfield 300",
+          "Moondrop Starfield 500"
+        ],
+        "name": [
+          "Starfield"
+        ],
+        "suffix": [
+          "S1 Aria Filters",
+          "S1 300 Mesh",
+          "S1 500 Mesh"
+        ]
+      },
+      {
+        "file": [
           "Moondrop Starfield no plug",
           "Moondrop Starfield 2 May",
           "Moondrop Starfield2 LDF"
