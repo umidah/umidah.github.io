@@ -515,16 +515,17 @@
     "phones": [
       {
         "file": [
-          "Moondrop Aria (2021)",
-          "Moondrop Aria (basslet)"
+          "Moondrop Aria nobass",
+          "Moondrop Aria nb 500",
+          "Moondrop Aria (2021)"
         ],
         "name": [
           "Aria"
         ],
-        "reviewScore": "6.74",
         "suffix": [
-          "S1",
-          "Front Filter Poked"
+          "No Bass",
+          "No Bass + 500",
+          "S1"
         ]
       },
       {
@@ -911,6 +912,32 @@
         ],
         "suffix": [
           "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SGOR",
+    "phones": [
+      {
+        "file": [
+          "SGOR Luna",
+          "SGOR Luna 300",
+          "SGOR Luna 400",
+          "SGOR Luna nb 400",
+          "SGOR Luna 300 400",
+          "SGOR Luna 500"
+        ],
+        "name": [
+          "Luna"
+        ],
+        "suffix": [
+          "S1",
+          "300",
+          "400",
+          "No Bass 400",
+          "300 (vent) + 400 (nozzle)",
+          "500"
         ]
       }
     ]
