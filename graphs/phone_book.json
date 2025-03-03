@@ -824,6 +824,26 @@
     ]
   },
   {
+    "name": "QCY",
+    "phones": [
+      {
+        "file": [
+          "Melobuds Pro Default",
+          "Melobuds Pro FLAT",
+          "Melobuds Pro EQ"
+        ],
+        "name": [
+          "Melobuds Pro"
+        ],
+        "suffix": [
+          "S1",
+          "0 EQ, FLAT",
+          "My EQ"
+        ]
+      }
+    ]
+  },
+  {
     "name": "QKZ",
     "phones": [
       {
