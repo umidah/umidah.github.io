@@ -66,13 +66,15 @@
     "phones": [
       {
         "file": [
-          "AFUL Magic One"
+          "AFUL Magic One",
+          "AFUL Magic One 500"
         ],
         "name": [
           "Magic One"
         ],
         "suffix": [
-          "S1"
+          "S1",
+          "500 Mesh"
         ]
       }
     ]
