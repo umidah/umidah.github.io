@@ -62,6 +62,22 @@
     ]
   },
   {
+    "name": "AFUL",
+    "phones": [
+      {
+        "file": [
+          "AFUL Magic One"
+        ],
+        "name": [
+          "Magic One"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Aoshida",
     "phones": [
       {
