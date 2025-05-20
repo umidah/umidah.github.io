@@ -1408,5 +1408,21 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Twistura",
+    "phones": [
+      {
+        "file": [
+          "Twistura Sigma"
+        ],
+        "name": [
+          "Sigma"
+        ],
+        "suffix": [
+          "S1"
+        ]
+      }
+    ]
   }
 ]
