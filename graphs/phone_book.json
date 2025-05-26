@@ -305,6 +305,7 @@
       {
         "file": [
           "Final A5000",
+          "Final A5000 DSP",
           "Final A5000 nofilter",
           "Final A5000 500",
           "Final A5000 2HDF",
@@ -315,6 +316,7 @@
         ],
         "suffix": [
           "S1",
+          "EQ",
           "No Filter",
           "500 Mesh",
           "2x HDF",
