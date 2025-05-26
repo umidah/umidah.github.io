@@ -300,6 +300,30 @@
     ]
   },
   {
+    "name": "Final",
+    "phones": [
+      {
+        "file": [
+          "Final A5000",
+          "Final A5000 nofilter",
+          "Final A5000 500",
+          "Final A5000 2HDF",
+          "Final A5000 2HDF 500"
+        ],
+        "name": [
+          "A5000"
+        ],
+        "suffix": [
+          "S1",
+          "No Filter",
+          "500 Mesh",
+          "2x HDF",
+          "2x HDF + 500 Mesh"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Heartfield",
     "phones": [
       {
