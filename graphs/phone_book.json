@@ -958,13 +958,15 @@
     "phones": [
       {
         "file": [
-          "Sennheiser IE200 UC tips Old Rig"
+          "Sennheiser IE200 UC tips Old Rig",
+          "Senheiser IE 200 BT20 g"
         ],
         "name": [
           "IE 200"
         ],
         "suffix": [
-          "UC tips"
+          "UC tips",
+          "BT20 Pro + gasket"
         ]
       },
       {
@@ -1071,6 +1073,7 @@
       {
         "file": [
           "Sony Linkbuds Fit",
+          "Sony Linkbuds Fit EQ",
           "Sony LB Fit Vocal",
           "Sony LB Fit Treble Boost",
           "Sony LB Fit Bass Boost",
@@ -1101,6 +1104,7 @@
         ],
         "suffix": [
           "no EQ",
+          "Personal EQ",
           "EQ: Vocal",
           "EQ: Treble Boost",
           "EQ: Bass Boost",
@@ -1431,6 +1435,19 @@
         "suffix": [
           "S2",
           "S1 (Borba)"
+        ]
+      },
+      {
+        "file": [
+          "Truthear PURE",
+          "Truthear PURE taped"
+        ],
+        "name": [
+          "Pure"
+        ],
+        "suffix": [
+          "S1",
+          "S1 taped vent"
         ]
       }
     ]
