@@ -1467,5 +1467,29 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Xiaomi",
+    "phones": [
+      {
+        "file": [
+          "Xiaomi Buds 6 Play",
+          "Xiaomi Buds 6 Play bass",
+          "Xiaomi Buds 6 Play treble",
+          "Xiaomi Buds 6 Play vocal",
+          "Xiaomi Buds 6 Play vol"
+        ],
+        "name": [
+          "Buds 6 Play"
+        ],
+        "suffix": [
+          "Standard",
+          "Bass",
+          "Treble",
+          "Vocal",
+          "Volume"
+        ]
+      }
+    ]
   }
 ]
