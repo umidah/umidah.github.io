@@ -599,10 +599,8 @@
       {
         "file": [
           "Moondrop Blessing 2 S2",
-          "Moondrop Blessing2",
-          "Moondrop Blessing2 tapb-b",
-          "Moondrop Blessing2 Wide",
-          "Moondrop Blessing2 Oracle"
+          "Moondrop Blessing2 S2 500",
+          "Moondrop Blessing2"
         ],
         "name": [
           "Blessing2"
@@ -610,10 +608,8 @@
         "reviewScore": "8.2",
         "suffix": [
           "S2",
-          "S1",
-          "Tanchjim T-APB Bass tips",
-          "Tanchjim T-APB Treble tips",
-          "EQ'd to Oracle"
+          "S2 + 500 mesh",
+          "S1"
         ]
       },
       {
@@ -1182,6 +1178,7 @@
       {
         "file": [
           "Tanchjim Origin",
+          "Tanchjim Origin 500",
           "Tanchjim Origin Kadenz"
         ],
         "name": [
@@ -1189,6 +1186,7 @@
         ],
         "suffix": [
           "S1",
+          "S1 + 500 Mesh",
           "Kadenz Nozzle"
         ]
       },
