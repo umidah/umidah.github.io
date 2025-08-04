@@ -185,6 +185,24 @@
     ]
   },
   {
+    "name": "CrinEar",
+    "phones": [
+      {
+        "file": [
+          "CrinEar Daybreak",
+          "CrinEar Daybreak JVC"
+        ],
+        "name": [
+          "Daybreak"
+        ],
+        "suffix": [
+          "S1",
+          "S1 JVC SpirlaDots"
+        ]
+      }
+    ]
+  },
+  {
     "name": "CVJ",
     "phones": [
       {
@@ -765,6 +783,17 @@
         ],
         "suffix": [
           "S1"
+        ]
+      },
+      {
+        "file": [
+          "Moondrop SpaceTravel 2"
+        ],
+        "name": [
+          "SpaceTravel2"
+        ],
+        "suffix": [
+          "S1 - Reference"
         ]
       },
       {
