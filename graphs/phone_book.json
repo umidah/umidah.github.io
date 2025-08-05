@@ -787,13 +787,15 @@
       },
       {
         "file": [
-          "Moondrop SpaceTravel 2"
+          "Moondrop SpaceTravel 2",
+          "SpaceTravel2 EQ"
         ],
         "name": [
           "SpaceTravel2"
         ],
         "suffix": [
-          "S1 - Reference"
+          "S1 - Reference",
+          "S1 - EQ"
         ]
       },
       {
