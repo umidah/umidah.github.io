@@ -146,6 +146,18 @@ const CONFIG = {
   DESCRIPTION: {
     default: [
       //{ TYPE: "TEXT", CONTENT: "Every measurements are done by using IEC 60318-4 (711) Ear Simulator." },
+      { TYPE: "HTML", CONTENT: `
+        <h3>Review Score (vague) meaning:</h3> 
+        <p align='left'>
+        All aspects of using the IEM are considered (sound, comfort, price). More or less a scale of how much I would like to use them.
+        <ul>0 / Broken - Doesn't work or has some defect.</ul>
+        <ul>1 - Really bad, never really wanna use it.</ul>
+        <ul>2 - Decent, but not very interesting.</ul>
+        <ul>3 - Does something interesting but one note, or is pretty good but unintersting.</ul>
+        <ul>4 - Great at few things, or good at many things. I typically <i>want</i> to use them.</ul>
+        <ul>5 - Very good with no flaws, Generally great with few flaws. These are my favourites.</ul>
+        </p>
+        ` },
       { TYPE: "HTML", CONTENT: "<p>Every measurements are done by using a clone IEC 60318-4 (711) Ear Simulator.</p>" },
     ],
     i18n: {
