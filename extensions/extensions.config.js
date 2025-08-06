@@ -32,7 +32,7 @@ export const EXTENSION_CONFIG = [
   {
     NAME: "frequency-tutorial",
     DESCRIPTION: `frequency tutorial for modernGraphTool`,
-    ENABLED: true,
+    ENABLED: false,
     CONFIG: {
       USE_ENGLISH_ONLY: false,
     },
@@ -62,6 +62,7 @@ export const EXTENSION_CONFIG = [
         { name: 'Harman 2013', filter: { bass: 6.6, treble: -1.4 }},
         { name: 'Harman 2015', filter: { bass: 6.6, treble: -3, ear: -1.8 }},
         { name: 'Harman 2018', filter: { bass: 4.8, treble: -4.4 }},
+        { name: 'Moondrop', filter: { tilt: -0.6, bass: 3}},
       ],
       // Applies custom filter to the specified target on initial load
       INITIAL_TARGET_FILTERS: [
@@ -79,7 +80,7 @@ export const EXTENSION_CONFIG = [
   {
     NAME: "preference-bound",
     DESCRIPTION: `preference bound overlay for modernGraphTool`,
-    ENABLED: disabfalse,
+    ENABLED: false,
     I18N_ENABLED: true,
     CONFIG: {
       // Preference Bound requires a file containing bound data.
