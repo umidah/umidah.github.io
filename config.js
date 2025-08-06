@@ -115,8 +115,8 @@ const CONFIG = {
   TOPBAR: {
     TITLE: {
       // TYPE: "TEXT", CONTENT: "modernGraphTool",
-      TYPE: "IMAGE", CONTENT: "./assets/images/binch.png",
-      // TYPE: "HTML", CONTENT: "<h2>modernGraphTool</h2>",
+      // TYPE: "IMAGE", CONTENT: "./assets/images/binch.png",
+      TYPE: "HTML", CONTENT: "<img src='./assets/images/binch.png'/><h2>modernGraphTool</h2>",
     },
     // 'LINK_LIST' also supports i18n like 'TARGET_MANIFEST'.
     // You MUST add 'http(s)://' to the URL Website PATH.
