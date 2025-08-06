@@ -4,7 +4,7 @@
 const CONFIG = {
   // Phone & Targets to display on initial load.
   // Note that this will be overridden by URL if it's present.
-  INITIAL_PHONES: ["Moondrop x Crinacle DUSK"],
+  INITIAL_PHONES: ["Moondrop x Crinacle DUSK S1"],
   INITIAL_TARGETS: ["Finch Preference Target"],
   INITIAL_PANEL: "graph",                               // (phone, graph, misc)
   // Default Normalization Type and Value.
@@ -14,7 +14,7 @@ const CONFIG = {
   },
   // Default Visualization Settings.
   VISUALIZATION: {
-    DEFAULT_Y_SCALE: 60,                                // (40, 60, 80, 100)
+    DEFAULT_Y_SCALE: 40,                                // (40, 60, 80, 100)
     LABEL: {                                            // Phone & Target Label Text Settings
       LOCATION: "BOTTOM_LEFT",                          // (BOTTOM_LEFT, BOTTOM_RIGHT, TOP_LEFT, TOP_RIGHT)
       POSITION: {
@@ -31,7 +31,7 @@ const CONFIG = {
       TEXT_SIZE: "15px",
       TEXT_WEIGHT: "500",                               // (100 ~ 900)
     },
-    RIG_DESCRIPTION: "Measured with IEC 60318-4 (711)", // Please don't leave this line empty, pretty please?
+    RIG_DESCRIPTION: "Measured with a clone IEC 60318-4 (711)", // Please don't leave this line empty, pretty please?
   },
   // User Interface Settings
   INTERFACE: {

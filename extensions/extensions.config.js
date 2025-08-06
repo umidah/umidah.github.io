@@ -79,7 +79,7 @@ export const EXTENSION_CONFIG = [
   {
     NAME: "preference-bound",
     DESCRIPTION: `preference bound overlay for modernGraphTool`,
-    ENABLED: true,
+    ENABLED: disabfalse,
     I18N_ENABLED: true,
     CONFIG: {
       // Preference Bound requires a file containing bound data.
