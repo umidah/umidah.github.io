@@ -14,7 +14,7 @@ const CONFIG = {
   },
   // Default Visualization Settings.
   VISUALIZATION: {
-    DEFAULT_Y_SCALE: 40,                                // (40, 60, 80, 100)
+    DEFAULT_Y_SCALE: 60,                                // (40, 60, 80, 100)
     LABEL: {                                            // Phone & Target Label Text Settings
       LOCATION: "BOTTOM_LEFT",                          // (BOTTOM_LEFT, BOTTOM_RIGHT, TOP_LEFT, TOP_RIGHT)
       POSITION: {
