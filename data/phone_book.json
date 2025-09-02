@@ -637,7 +637,13 @@
         "file": [
           "Moondrop Blessing 2 S2",
           "Moondrop Blessing2 S2 500",
-          "Moondrop Blessing2"
+          "Moondrop Blessing2",
+          "MD Blessing2 LDF big",
+          "MD Blessing2 LDF small",
+          "MD Blessing2 LDF DD",
+          "MD Blessing2 LDF A2",
+          "MD Blessing2 LDF A2 LDF",
+          "MD Blessing2 LDF A2 HDF"
         ],
         "name": [
           "Blessing2"
@@ -646,7 +652,13 @@
         "suffix": [
           "S2",
           "S2 + 500 mesh",
-          "S1"
+          "S1",
+          "S2 LDF Mids",
+          "S2 LDF Tweeter",
+          "S2 LDF DD",
+          "S2 A2 DD",
+          "S2 A2 DD LDF Tweeter",
+          "S2 A2 DD LDF Mids HDF Mids"
         ]
       },
       {
