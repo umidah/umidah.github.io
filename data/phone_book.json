@@ -641,9 +641,9 @@
           "MD Blessing2 LDF big",
           "MD Blessing2 LDF small",
           "MD Blessing2 LDF DD",
-          "MD Blessing2 LDF A2",
-          "MD Blessing2 LDF A2 LDF",
-          "MD Blessing2 LDF A2 HDF"
+          "MD Blessing2 A2",
+          "MD Blessing2 A2 LDF",
+          "MD Blessing2 A2 LDF HDF"
         ],
         "name": [
           "Blessing2"
