@@ -785,6 +785,20 @@
       },
       {
         "file": [
+          "Moondrop Lan2 Ref",
+          "Moondrop Lan2 Pop"
+        ],
+        "name": [
+          "Lan2"
+        ],
+        "reviewScore": "",
+        "suffix": [
+          "Ref S1",
+          "Pop S1"
+        ]
+      },
+      {
+        "file": [
           "Moondrop May nodsp",
           "Moondrop May Standard",
           "MAY2DUSK",
