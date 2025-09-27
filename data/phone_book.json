@@ -246,6 +246,23 @@
     ]
   },
   {
+    "name": "Elysian",
+    "phones": [
+      {
+        "file": [
+          "Elysian Pilgrim"
+        ],
+        "name": [
+          "Pilgrim"
+        ],
+        "reviewScore": "",
+        "suffix": [
+          "S1 (Borba)"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Etymotic",
     "phones": [
       {
