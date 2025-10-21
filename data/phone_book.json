@@ -187,6 +187,21 @@
         "suffix": [
           "500 Mesh + High Density Foam"
         ]
+      },
+      
+      {
+        "file": [
+          "CCA Phoenix",
+          "CCA Deep"
+        ],
+        "name": [
+          "Phoenix"
+        ],
+        "reviewScore": "3",
+        "suffix": [
+          "S1",
+          "S1 Deep"
+        ]
       }
     ]
   },
