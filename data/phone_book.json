@@ -789,6 +789,7 @@
       },
       {
         "file": [
+          "Moondrop KATO Blue",
           "Moondrop KATO Old Rig",
           "Moondrop Kato May"
         ],
@@ -797,6 +798,7 @@
         ],
         "reviewScore": "4",
         "suffix": [
+          "S2 Blue",
           "S1",
           "May DSP Standard"
         ]
@@ -1063,6 +1065,25 @@
         "reviewScore": "4",
         "suffix": [
           "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Roseselsa",
+    "phones": [
+      {
+        "file": [
+          "Roseselsa Ceramics Mk2",
+          "Roseselsa Ceramics Mk2 D"
+        ],
+        "name": [
+          "Ceramics Mk2"
+        ],
+        "reviewScore": "3",
+        "suffix": [
+          "Hifi",
+          "Hifi deep"
         ]
       }
     ]
