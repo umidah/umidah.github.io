@@ -1116,6 +1116,20 @@
           "Clear",
           "Standard"
         ]
+      },
+      {
+        "file": [
+          "Samsung GB 3 FE Default",
+          "Samsung GB 3 FE Custom"
+        ],
+        "name": [
+          "Galaxy Buds3 FE"
+        ],
+        "reviewScore": "3",
+        "suffix": [
+          "S1 ANC Default",
+          "S1 ANC -4-2-3-1-0-1-1-4-0"
+        ]
       }
     ]
   },
